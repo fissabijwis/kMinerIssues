@@ -16,7 +16,7 @@ Supported Mines
   - Mithril
   - Adamtite
  - Bank: AL_KHARID
- - Lodestone: LUMBRIDGE
+ - Lodestone: AL_KHARID
 - Ardouge East
  - Ores
   - Iron
@@ -44,6 +44,7 @@ Supported Mines
   - Iron
   - Mithril
   - Adamtite
+  - Coal
  - Bank: FALADOR_EAST
  - Deposit Box: DWARVEN_MINE_RESOURCE_DUNGEON
  - Lodestone: FALADOR
@@ -81,12 +82,13 @@ Supported Mines
   - Concentrated Gold
  - Notes
   - Superheating is supported!
+  - Summoning is supported!
+  - JuJu pots are supported!
 - Lumbridge Swamp East
  - Ores
   - Copper
   - Tin
- - Bank: LUMBRIDGE_CASTLE
- - Deposit Box: LUMBRIDGE_CASTLE
+ - Bank: AL_KHARID
  - Lodestone: LUMBRIDGE
 - Lumbridge Swamp West
  - Ores
@@ -172,14 +174,16 @@ Supported Mines
  - Lodestone: PORT_SARIM
 - Switching Neitiznot
  - Ores
-  - Coal
   - Runite
  - Bank: NEITIZNOT
-- Switching Neitiznot
+- Switching Resource Dungeon Mining Guild
  - Ores
-  - Coal
+  - Mithril
+  - Adamtite
   - Runite
- - Bank: NEITIZNOT
+ - Bank: FALADOR_EAST
+ - Deposit Box: FALADOR_EAST
+ - Lodestone: FALADOR
 - Varrock East
  - Ores
   - Copper
@@ -191,6 +195,14 @@ Supported Mines
  - Ores
   - Rune Essence
  - Bank: VARROCK_EAST
+ - Lodestone: VARROCK
+- Varrock West
+ - Ores
+  - Clay
+  - Tin
+  - Iron
+  - Silver
+ - Bank: VARROCK_WEST
  - Lodestone: VARROCK
 - Yanille Essence
  - Ores
