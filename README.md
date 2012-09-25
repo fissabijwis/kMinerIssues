@@ -3,6 +3,10 @@ kMiner Issues
 
 This is a public repo for easily tracking issues and requests.
 
+## [https://github.com/Rose-Association/kMinerIssues/blob/master/SETUP.md](https://github.com/Rose-Association/kMinerIssues/blob/master/SETUP.md "SETUP") ##
+
+## [https://github.com/Rose-Association/kMinerIssues/blob/master/FAQ.md](https://github.com/Rose-Association/kMinerIssues/blob/master/FAQ.md "FAQ") ##
+
 Supported Mines
 ============
 
