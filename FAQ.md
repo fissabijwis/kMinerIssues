@@ -11,7 +11,7 @@
 
 **Q.** Does kMiner support summoning?
 
-**A.** kMiner only supports summoning Lava Titans and Obsiden golems at the LRC.
+**A.** kMiner only supports summoning Lava Titans and Obsiden golems at the LRC. Have pouches and summoning potions in your inventory.
 
 **Q.** Does kMiner support Gem and Coal bags?
 
