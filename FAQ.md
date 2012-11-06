@@ -43,6 +43,10 @@
 
 **A.** kMiner only supports summoning Lava Titans and Obsiden golems at the LRC. Have pouches and summoning potions in your inventory.
 
+**Q.** Does kMiner support JuJu potions??
+
+**A.** Yes! Just have them in your inentory!
+
 
 
 ## Bugs ##
