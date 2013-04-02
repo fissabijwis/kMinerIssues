@@ -27,6 +27,9 @@
 
 **A.** Looks for mines that start with "Switching". Such as "Switching Heros Guild". These worlds will jump to the next world when all of the ores you selected have been mined. We track ores to return to the world when the ores are up.
 
+**Q.** Does kMiner support Action Bar Dropping?
+
+**A.** Yes! Have any items you want to use the action bar for in the action bar.
 
 ## LRC ##
 
