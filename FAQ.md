@@ -33,7 +33,7 @@
 
 **Q.** Does kMiner superheat at LRC?
 
-**A.** Yes. Have natures runes and a fire staff equipped. To bank the gold bars put "Gold Ore" under bank in the bank list otherwise put it in drop to drop the produced gold bars.
+**A.** Yes. Have natures runes in the inventory, a fire staff equipped, and the superheat spell in the action bar. To bank the gold bars put "Gold Ore" under bank in the bank list otherwise put it in drop to drop the produced gold bars.
 
 **Q.** kMiner is just sitting at one of the LRC rocks... The other one has to be up!
 
